@@ -1,0 +1,38 @@
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\bin\Debug\FPS.exe
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\bin\Debug\FPS.pdb
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.Form1.resources
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.MsgBox.resources
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.Properties.Resources.resources
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.csproj.GenerateResource.Cache
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.exe
+C:\Users\PIC\Documents\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.pdb
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.exe
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.pdb
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\bin\Debug\FPS.exe
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\bin\Debug\FPS.pdb
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.Form1.resources
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.MsgBox.resources
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.Properties.Resources.resources
+C:\Users\Admin\Desktop\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Backup\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.exe
+C:\Users\Admin\Desktop\Backup\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.pdb
+C:\Users\Admin\Desktop\Backup\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\bin\Debug\FPS.exe
+C:\Users\Admin\Desktop\Backup\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\bin\Debug\FPS.pdb
+C:\Users\Admin\Desktop\Backup\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Backup\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.Form1.resources
+C:\Users\Admin\Desktop\Backup\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.MsgBox.resources
+C:\Users\Admin\Desktop\Backup\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.Properties.Resources.resources
+C:\Users\Admin\Desktop\Backup\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\AV-GTI\Backup\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.exe
+C:\Users\Admin\Desktop\AV-GTI\Backup\ProjectsBackup\Projects\Existing Server\PIC_SERVER\FPS\obj\Debug\FPS.pdb
+C:\Users\Admin\Desktop\pic_server_renew\FPS\bin\Debug\FPS.exe
+C:\Users\Admin\Desktop\pic_server_renew\FPS\bin\Debug\FPS.pdb
+C:\Users\Admin\Desktop\pic_server_renew\FPS\obj\Debug\FPS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\pic_server_renew\FPS\obj\Debug\FPS.Form1.resources
+C:\Users\Admin\Desktop\pic_server_renew\FPS\obj\Debug\FPS.MsgBox.resources
+C:\Users\Admin\Desktop\pic_server_renew\FPS\obj\Debug\FPS.Properties.Resources.resources
+C:\Users\Admin\Desktop\pic_server_renew\FPS\obj\Debug\FPS.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\pic_server_renew\FPS\obj\Debug\FPS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\pic_server_renew\FPS\obj\Debug\FPS.exe
+C:\Users\Admin\Desktop\pic_server_renew\FPS\obj\Debug\FPS.pdb
